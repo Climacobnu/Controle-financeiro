@@ -1,3 +1,3 @@
 # Controle-financeiro
 
-<a href="https://climacobnu.github.io/T-Rex-Game/" rel="noopener noreferrer" target="_blank">Clique aqui para Jogar!</a>
+<a href="https://climacobnu.github.io/Controle-financeiro/" rel="noopener noreferrer" target="_blank">Clique aqui!</a>
